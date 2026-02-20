@@ -5,7 +5,7 @@ Product Owner Case Study
 ![Focus](https://img.shields.io/badge/Focus-Pricing%20%26%20Margin%20Optimization-green)
 ![Strategy](https://img.shields.io/badge/Strength-Revenue%20Intelligence-purple)
 ![Methodology](https://img.shields.io/badge/Methodology-Agile%20%7C%20Scrum-orange)
-![Analytics](https://img.shields.io/badge/Analytics-SQL%20%7C%20PowerBI-yellow)
+![Analytics](https://img.shields.io/badge/Analytics-Tableau%20%7C%20SQL-yellow)
 
 ---
 
@@ -22,7 +22,7 @@ As Product Owner, I identified underperforming SKUs, margin leakage, and pricing
 Improve financial performance by:
 
 - Increasing gross margin  
-- Optimizing price elasticity  
+- Optimizing pricing strategy  
 - Identifying underperforming SKUs  
 - Improving revenue mix across product lines  
 - Increasing sales velocity  
@@ -34,8 +34,8 @@ Improve financial performance by:
 Product performance analysis revealed:
 
 - Margin compression in mid-tier SKUs  
-- Revenue heavily concentrated in few product lines  
-- Inconsistent pricing relative to elasticity  
+- Revenue concentration in limited product lines  
+- Inconsistent pricing relative to demand sensitivity  
 - Slow-moving inventory tying up capital  
 - Limited cross-sell optimization  
 
@@ -50,8 +50,8 @@ Without intervention, profitability growth would stagnate despite top-line reven
 | Gross Margin | 38% | 42% |
 | Revenue per SKU | $18,000 | $20,000 |
 | Sales Velocity | 1.8 units/day | 2.3 units/day |
-| Price Elasticity Efficiency | Low | Optimized |
 | Inventory Turnover | 4.5x | 5.5x |
+| Revenue Growth | +3% | +5% |
 
 **North Star Metric:** Gross Margin Expansion
 
@@ -63,32 +63,32 @@ Without intervention, profitability growth would stagnate despite top-line reven
 
 1️⃣ Conduct SKU-level performance segmentation  
 2️⃣ Identify high-revenue / low-margin products  
-3️⃣ Introduce price optimization model  
+3️⃣ Introduce pricing optimization framework  
 4️⃣ Analyze cross-product bundling opportunities  
 5️⃣ Improve product mix strategy  
 6️⃣ Implement margin-protection guardrails  
 
 ---
 
-# 📊 Dashboard Capabilities
+# 📊 Tableau Dashboard Capabilities
 
-- Revenue by product line  
+- Revenue by product line visualization  
 - Margin heatmap by SKU  
-- Price vs sales correlation  
-- Elasticity performance tracking  
-- Revenue mix distribution  
-- Inventory turnover risk indicators  
+- Price vs sales correlation view  
+- Revenue mix distribution analysis  
+- Inventory turnover performance tracking  
+- Sales velocity trend analysis  
 
 Designed for Product Leadership & Finance stakeholders.
 
 ---
 
-# 📋 Backlog Prioritization (RICE Example)
+# 📋 Backlog Prioritization (RICE Framework)
 
 | Initiative | Reach | Impact | Confidence | Effort | RICE Score |
 |------------|--------|---------|------------|---------|------------|
-| Margin Heatmap Dashboard | High | High | 90% | Medium | 9.4 |
-| Price Elasticity Model | Medium | High | 80% | High | 7.1 |
+| Margin Visibility Dashboard | High | High | 90% | Medium | 9.4 |
+| Pricing Optimization Model | Medium | High | 80% | High | 7.1 |
 | Product Bundling Strategy | Medium | Medium | 75% | Medium | 6.3 |
 
 Margin visibility prioritized first due to immediate financial clarity impact.
@@ -101,10 +101,10 @@ Margin visibility prioritized first due to immediate financial clarity impact.
 
 - Margin calculation by SKU  
 - Contribution margin analysis  
-- Price elasticity approximation  
 - Revenue mix distribution  
 - Inventory turnover computation  
 - Sales velocity modeling  
+- SKU performance ranking  
 
 ---
 
@@ -123,7 +123,7 @@ Margin visibility prioritized first due to immediate financial clarity impact.
 # 🗂 Deliverables Included
 
 ### 📊 01_Dashboard
-- Product-line performance dashboard
+- Tableau Executive Pricing Dashboard (.twbx)
 - SKU margin analysis
 - Revenue distribution visualization
 
@@ -135,8 +135,8 @@ Margin visibility prioritized first due to immediate financial clarity impact.
 
 ### 🧮 03_SQL
 - Margin & revenue validation scripts
-- Elasticity analysis logic
-- Contribution margin model
+- SKU ranking model
+- Revenue aggregation logic
 
 ### 📄 04_Docs
 - PRD
@@ -165,9 +165,9 @@ Margin visibility prioritized first due to immediate financial clarity impact.
 - Financial KPI ownership  
 - Margin-first product strategy  
 - Revenue mix optimization  
-- SKU-level performance governance  
+- SKU-level governance  
 - Structured prioritization  
-- Cross-functional alignment with Finance  
+- Cross-functional collaboration with Finance  
 
 ---
 
@@ -176,7 +176,7 @@ Margin visibility prioritized first due to immediate financial clarity impact.
 This project demonstrates:
 
 ✔ Financial product ownership maturity  
-✔ Margin awareness & pricing discipline  
+✔ Pricing discipline & margin awareness  
 ✔ Revenue intelligence strategy  
 ✔ Data-backed prioritization  
 ✔ Executive-ready communication  
