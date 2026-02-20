@@ -1,0 +1,5 @@
+activity,R (Responsible),A (Accountable),C (Consulted),I (Informed)
+KPI definition + governance,PO,Analytics Lead,Data Eng,Exec Sponsor
+Data model changes,Data Eng,Analytics Lead,PO,Exec Sponsor
+Dashboard design + QA,Analytics Lead,PO,Data Eng,Exec Sponsor
+Release + training,PO,Exec Sponsor,Analytics Lead,Stakeholders

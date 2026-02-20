@@ -1,0 +1,11 @@
+kpi,formula,grain,filters,validation
+Gross Revenue,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Net Revenue,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Contribution Margin,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+ACoS,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+ROAS,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Conversion Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Return Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+In-Stock Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Buy Box %,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Average Rating,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%

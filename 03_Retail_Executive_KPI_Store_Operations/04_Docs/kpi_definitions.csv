@@ -1,0 +1,10 @@
+kpi,formula,grain,filters,validation
+Net Sales,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Gross Margin %,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Sales per Labor Hour,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Foot Traffic,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Conversion (in-store),See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Shrink %,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+On‑Shelf Availability,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+NPS,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Refund Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%

@@ -1,0 +1,41 @@
+product_id,product_name,category,brand,base_price
+P0001,Nova Oil 1,Supplements,Luma,33.47
+P0002,Pulse Mask 2,Supplements,Kairo,44.44
+P0003,Prime Mask 3,Accessories,Kairo,52.43
+P0004,Prime Mask 4,Skin Care,Oro,26.34
+P0005,Glow Protein 5,Hair Care,Oro,46.24
+P0006,Apex Serum 6,Fitness,Kairo,47.0
+P0007,Pulse Mask 7,Fitness,Oro,25.33
+P0008,Glow Bottle 8,Supplements,Bepha,52.27
+P0009,Glow Serum 9,Skin Care,Kairo,63.67
+P0010,Glow Serum 10,Skin Care,Kairo,67.94
+P0011,Pulse Protein 11,Hair Care,Kairo,78.67
+P0012,Glow Protein 12,Fitness,Oro,45.62
+P0013,Pulse Bottle 13,Accessories,Oro,55.16
+P0014,Glow Bottle 14,Skin Care,Bepha,76.78
+P0015,Pulse Mask 15,Hair Care,Bepha,58.93
+P0016,Glow Serum 16,Supplements,Oro,10.23
+P0017,Nova Mask 17,Fitness,Bepha,10.03
+P0018,Prime Protein 18,Skin Care,Bepha,48.45
+P0019,Prime Mask 19,Supplements,Luma,53.57
+P0020,Glow Oil 20,Accessories,Kairo,51.28
+P0021,Pulse Bottle 21,Fitness,Kairo,29.97
+P0022,Glow Oil 22,Fitness,Oro,64.02
+P0023,Pulse Protein 23,Fitness,Kairo,75.32
+P0024,Apex Serum 24,Hair Care,Bepha,49.12
+P0025,Glow Bottle 25,Fitness,Kairo,38.33
+P0026,Prime Serum 26,Hair Care,Kairo,13.31
+P0027,Apex Bottle 27,Hair Care,Kairo,33.05
+P0028,Nova Serum 28,Skin Care,Bepha,20.34
+P0029,Prime Mask 29,Accessories,Luma,55.05
+P0030,Glow Bottle 30,Fitness,Luma,75.38
+P0031,Prime Mask 31,Accessories,Kairo,25.11
+P0032,Nova Protein 32,Accessories,Bepha,60.73
+P0033,Pulse Protein 33,Fitness,Oro,18.51
+P0034,Nova Protein 34,Supplements,Bepha,44.28
+P0035,Pulse Mask 35,Accessories,Kairo,54.66
+P0036,Pulse Protein 36,Accessories,Kairo,26.53
+P0037,Pulse Oil 37,Hair Care,Bepha,31.72
+P0038,Glow Oil 38,Supplements,Luma,56.29
+P0039,Glow Bottle 39,Fitness,Bepha,75.6
+P0040,Glow Mask 40,Hair Care,Oro,77.1

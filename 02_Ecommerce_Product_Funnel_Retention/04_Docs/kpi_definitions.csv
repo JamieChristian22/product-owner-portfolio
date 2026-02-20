@@ -1,0 +1,10 @@
+kpi,formula,grain,filters,validation
+Sessions,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Add-to-Cart Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Checkout Start Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Purchase Conversion,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+AOV,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Repeat Purchase Rate (30d),See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Churn (90d),See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+CAC (modeled),See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+LTV (modeled),See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%

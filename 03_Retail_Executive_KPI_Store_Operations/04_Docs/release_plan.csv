@@ -1,0 +1,3 @@
+release,target_date,scope,exit_criteria
+Release 1.0,2026-02-14,KPI definitions locked; data validated; dashboard published; training done,Go/No-Go checklist complete
+Release 1.1,2026-03-14,Automated anomaly alerts; self-serve filters; doc refresh,Post-release KPI review
