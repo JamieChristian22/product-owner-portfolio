@@ -1,0 +1,5 @@
+experiment_id,experiment_name,product_area,start_date,end_date,allocation,primary_metric
+EXP-1001,1‑Tap Checkout,Checkout,2025-11-03,2025-12-01,50/50,conversion_rate
+EXP-1002,Free Shipping Threshold Banner,Checkout,2025-12-08,2026-01-05,50/50,conversion_rate
+EXP-1003,Personalized Recommendations Carousel,PDP,2025-10-06,2025-11-03,60/40,conversion_rate
+EXP-1004,Search Auto‑Suggest Ranking,Search,2026-01-12,2026-02-09,50/50,conversion_rate

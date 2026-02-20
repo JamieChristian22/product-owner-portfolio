@@ -1,0 +1,5 @@
+kpi,formula,grain,filters,validation
+Primary: Purchase Conversion,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Secondary: AOV,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+"Guardrails: Refund Rate, Session Latency",See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+North Star: Weekly Active Buyers,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%

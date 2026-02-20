@@ -1,0 +1,10 @@
+kpi,formula,grain,filters,validation
+Revenue,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Units,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Gross Profit,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Margin %,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Price Index,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Promo Lift,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Stockout Lost Sales,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Sell‑through,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%
+Return Rate,See PRD; validated via /03_SQL/queries.sql,daily,All,SQL cross-check within ±0.5%

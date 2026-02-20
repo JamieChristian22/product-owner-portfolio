@@ -1,0 +1,61 @@
+sku,product_line,category,product_name,base_price,unit_cost
+SKU-10001,Seasonal,Tools,Nova Device 1,9.08,2.95
+SKU-10002,Seasonal,Tools,Prime Accessory 2,140.32,78.73
+SKU-10003,Premium,Tools,Summit Set 3,129.12,57.06
+SKU-10004,Core,Fitness,Apex Device 4,156.05,73.27
+SKU-10005,Seasonal,Home,Nova Device 5,15.34,6.51
+SKU-10006,Premium,Tools,Apex Device 6,51.49,20.72
+SKU-10007,Seasonal,Fitness,Prime Set 7,206.91,90.58
+SKU-10008,Value,Fitness,Echo Kit 8,48.77,23.17
+SKU-10009,Core,Personal Care,Nova Kit 9,143.57,54.98
+SKU-10010,Value,Fitness,Summit Bundle 10,72.57,30.85
+SKU-10011,Premium,Home,Nova Kit 11,218.24,90.85
+SKU-10012,Value,Personal Care,Nova Accessory 12,79.48,28.02
+SKU-10013,Value,Fitness,Apex Kit 13,132.41,61.23
+SKU-10014,Premium,Home,Echo Accessory 14,149.95,85.26
+SKU-10015,Value,Electronics,Nova Device 15,171.7,59.78
+SKU-10016,Premium,Fitness,Summit Device 16,176.54,88.52
+SKU-10017,Seasonal,Electronics,Summit Set 17,212.47,85.56
+SKU-10018,Premium,Fitness,Apex Set 18,136.52,55.44
+SKU-10019,Value,Tools,Summit Bundle 19,167.27,73.95
+SKU-10020,Seasonal,Home,Echo Bundle 20,42.65,18.04
+SKU-10021,Premium,Home,Prime Accessory 21,139.14,55.1
+SKU-10022,Value,Fitness,Echo Device 22,63.74,27.5
+SKU-10023,Premium,Personal Care,Prime Bundle 23,16.67,7.84
+SKU-10024,Core,Tools,Prime Accessory 24,77.43,25.7
+SKU-10025,Seasonal,Fitness,Summit Set 25,50.98,18.29
+SKU-10026,Value,Personal Care,Apex Set 26,118.53,65.58
+SKU-10027,Core,Electronics,Echo Set 27,187.56,63.03
+SKU-10028,Value,Fitness,Prime Set 28,31.49,12.11
+SKU-10029,Value,Home,Apex Device 29,191.06,112.42
+SKU-10030,Seasonal,Home,Echo Device 30,26.66,12.52
+SKU-10031,Premium,Personal Care,Summit Accessory 31,127.8,62.43
+SKU-10032,Seasonal,Electronics,Apex Set 32,75.86,33.98
+SKU-10033,Premium,Home,Prime Accessory 33,139.12,73.12
+SKU-10034,Seasonal,Tools,Echo Bundle 34,135.41,78.01
+SKU-10035,Premium,Fitness,Summit Kit 35,186.4,92.16
+SKU-10036,Value,Electronics,Apex Set 36,92.2,54.03
+SKU-10037,Value,Personal Care,Summit Set 37,191.64,91.8
+SKU-10038,Premium,Tools,Summit Kit 38,61.23,37.71
+SKU-10039,Seasonal,Fitness,Echo Accessory 39,197.06,116.81
+SKU-10040,Core,Fitness,Echo Set 40,167.05,96.67
+SKU-10041,Core,Electronics,Nova Bundle 41,176.57,90.31
+SKU-10042,Value,Tools,Nova Accessory 42,215.26,93.36
+SKU-10043,Premium,Home,Nova Bundle 43,45.59,24.32
+SKU-10044,Core,Personal Care,Echo Set 44,184.5,108.16
+SKU-10045,Premium,Electronics,Summit Kit 45,153.19,91.57
+SKU-10046,Premium,Personal Care,Apex Accessory 46,100.27,54.68
+SKU-10047,Seasonal,Tools,Summit Set 47,143.74,58.29
+SKU-10048,Premium,Fitness,Nova Accessory 48,156.4,53.43
+SKU-10049,Core,Personal Care,Nova Bundle 49,227.72,94.61
+SKU-10050,Core,Tools,Echo Kit 50,153.75,84.95
+SKU-10051,Premium,Tools,Summit Set 51,43.56,14.26
+SKU-10052,Core,Tools,Summit Bundle 52,164.54,57.84
+SKU-10053,Value,Home,Summit Accessory 53,74.09,37.73
+SKU-10054,Core,Fitness,Echo Bundle 54,148.0,55.27
+SKU-10055,Premium,Tools,Summit Kit 55,150.8,74.49
+SKU-10056,Core,Fitness,Prime Device 56,18.31,7.82
+SKU-10057,Value,Fitness,Prime Bundle 57,221.18,129.32
+SKU-10058,Premium,Tools,Prime Set 58,165.31,75.02
+SKU-10059,Premium,Fitness,Apex Kit 59,34.68,15.56
+SKU-10060,Seasonal,Fitness,Echo Bundle 60,192.01,65.99

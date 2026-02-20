@@ -1,0 +1,6 @@
+id,item,probability_or_due,impact_or_plan,mitigation_or_next_step,status,owner
+R-01,Data freshness failures cause stale KPIs,Medium,High,Refresh SLA checks; alert on missing data,Open,Analytics Lead
+R-02,Metric definition drift across teams,Medium,High,Publish KPI dictionary; weekly governance,Open,PO
+D-01,Dependency: data engineering adds fields,2026-01-20,Track as blocker in sprint board,Planned,Data Eng,
+A-01,Stakeholder sign-off on KPI definitions,2026-01-10,30-min review + written approval,Planned,PO,
+I-01,Release training + comms,2026-02-14,Enablement session; release notes,Planned,PO,

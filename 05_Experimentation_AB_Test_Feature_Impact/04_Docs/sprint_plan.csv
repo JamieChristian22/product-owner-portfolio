@@ -1,0 +1,4 @@
+sprint,start_date,end_date,team_capacity_points,committed_points,theme
+Sprint 1,2026-01-06,2026-01-19,38,34,Lock KPI definitions; baseline dashboard; validation
+Sprint 2,2026-01-20,2026-02-02,38,34,Driver analysis; drilldowns; alerts/monitoring
+Sprint 3,2026-02-03,2026-02-16,38,34,Launch; enablement; measurement; hardening
