@@ -1,8 +1,9 @@
-# 🛒 Marketplace Seller Performance Optimization  
+# 🛍 E-commerce Product Funnel & Retention (Web / App)
 Product Owner Case Study  
 
-![Domain](https://img.shields.io/badge/Domain-Marketplace-blue)
-![Focus](https://img.shields.io/badge/Focus-GMV%20Growth-green)
+![Domain](https://img.shields.io/badge/Domain-Ecommerce-blue)
+![Focus](https://img.shields.io/badge/Focus-Conversion%20Optimization-green)
+![Retention](https://img.shields.io/badge/Strength-Retention%20%26%20CLV-purple)
 ![Methodology](https://img.shields.io/badge/Methodology-Agile%20%7C%20Scrum-orange)
 ![Analytics](https://img.shields.io/badge/Analytics-SQL%20%7C%20PowerBI-yellow)
 
@@ -10,32 +11,33 @@ Product Owner Case Study
 
 # 📌 Executive Summary
 
-This project focuses on improving **Seller Gross Merchandise Value (GMV)** and reducing **Seller Churn** within a marketplace ecosystem.
+This case study focuses on optimizing the **acquisition → activation → purchase funnel** and improving **repeat purchase behavior** in a web/app-based e-commerce environment.
 
-As Product Owner, I identified performance gaps across seller segments and designed a structured prioritization and experimentation roadmap to improve revenue-driving KPIs.
+As Product Owner, I identified conversion friction points within checkout and onboarding flows and led a structured experimentation roadmap to increase revenue per active user.
 
 ---
 
 # 🎯 Business Objective
 
-Increase marketplace revenue by:
+Drive revenue growth by:
 
-- Improving Seller Retention  
-- Increasing Average Order Value (AOV)  
-- Optimizing Seller Performance Visibility  
+- Increasing funnel conversion rates  
+- Reducing checkout abandonment  
+- Improving repeat purchase frequency  
+- Increasing Customer Lifetime Value (CLV)  
 
 ---
 
 # 📊 Problem Statement
 
-Marketplace sellers exhibited:
+Funnel analytics revealed:
 
-- Declining retention in mid-tier segments  
-- Low visibility into performance metrics  
-- Inconsistent order value trends  
-- Lack of performance-based incentives  
+- High drop-off at Checkout Stage 2  
+- 68% cart abandonment rate  
+- Low 30-day repeat purchase rate  
+- Minimal personalization across segments  
 
-Without intervention, projected churn would negatively impact GMV growth.
+Without intervention, CAC growth would outpace revenue gains.
 
 ---
 
@@ -43,93 +45,57 @@ Without intervention, projected churn would negatively impact GMV growth.
 
 | KPI | Baseline | Target |
 |------|----------|--------|
-| GMV | $2.5M / month | +15% |
-| Seller Retention | 78% | 85% |
-| Average Order Value | $42 | $45 |
-| Seller Churn Rate | 22% | <15% |
+| Funnel Conversion Rate | 18% | 20.2% (+12%) |
+| Cart Abandonment | 68% | <61% |
+| Repeat Purchase Rate | 24% | 30% |
+| Revenue per Active User | $48 | $52 |
+| Customer Lifetime Value | $120 | $140 |
 
-**North Star Metric:** Seller GMV Growth
+**North Star Metric:** Revenue per Active User
 
 ---
 
 # 🧠 Product Strategy
 
-### Strategic Approach:
+### Strategic Roadmap
 
-1. Segment sellers by performance tier  
-2. Introduce seller analytics dashboard  
-3. Launch incentive-based performance program  
-4. Run controlled A/B experiment on seller insights  
-
----
-
-# 🗂 Deliverables Included
-
-### 📊 01_Dashboard
-- Executive GMV dashboard
-- Seller segmentation view
-- Retention cohort analysis
-- AOV trend visualization
-
-### 📁 02_Data_CSV
-- Cleaned transactional dataset
-- Seller performance dataset
-- Retention cohort dataset
-
-### 🧮 03_SQL
-- KPI validation queries
-- Churn calculation logic
-- Revenue aggregation scripts
-
-### 📄 04_Docs
-- PRD
-- Stakeholder Matrix (RACI)
-- KPI Definition Framework
-- Risk & Assumptions Log (RAID)
-
-### 🐍 06_Python
-- Data validation script
-- Aggregation transformation logic
-
-### 🗓 07_Jira
-- Sprint backlog
-- User stories
-- RICE prioritization model
-
-### 🏗 08_Product_Design_Architecture
-- Data flow diagram
-- KPI hierarchy
-- Feature rollout roadmap
+1️⃣ Conduct funnel segmentation analysis  
+2️⃣ Identify highest drop-off stage  
+3️⃣ Simplify checkout experience  
+4️⃣ Introduce guest checkout  
+5️⃣ Launch personalized product recommendations  
+6️⃣ Run structured A/B experiment  
 
 ---
 
-# 📋 Backlog Prioritization (RICE Example)
+# 📋 Backlog Prioritization (RICE Framework)
 
 | Feature | Reach | Impact | Confidence | Effort | RICE Score |
 |----------|--------|---------|------------|---------|------------|
-| Seller Performance Dashboard | High | High | 80% | Medium | 8.5 |
-| Incentive Program | Medium | High | 75% | High | 6.2 |
-| Automated Performance Alerts | Medium | Medium | 70% | Medium | 5.4 |
+| Checkout Simplification | High | High | 85% | Medium | 9.1 |
+| Guest Checkout | Medium | Medium | 80% | Low | 7.2 |
+| Personalized Recommendations | Medium | High | 75% | High | 6.4 |
 
-Prioritized rollout focused first on dashboard visibility due to highest impact-to-effort ratio.
+Checkout simplification prioritized first due to highest impact-to-effort ratio.
 
 ---
 
 # 🧪 Experimentation Framework
 
-### Hypothesis:
-Providing sellers with real-time performance analytics will increase engagement and retention.
+### Hypothesis
+Reducing checkout friction will improve purchase completion and reduce abandonment.
 
-### Experiment Design:
-- Control Group: No analytics dashboard  
-- Test Group: Seller performance dashboard access  
+### Experiment Design
+- Control Group: Existing checkout flow  
+- Test Group: Simplified checkout (reduced fields + progress indicator + autofill)
 
-### Measured Outcome:
-- +15% GMV lift  
-- -9% Seller Churn  
-- +6% AOV  
+### Measured Outcomes
+- +12% conversion lift  
+- -7% cart abandonment  
+- +6% revenue per user  
+- +8% repeat purchase rate  
 
-Statistical significance validated through SQL aggregation.
+Validated using SQL-based cohort analysis.
 
 ---
 
@@ -137,38 +103,81 @@ Statistical significance validated through SQL aggregation.
 
 | Metric | Lift |
 |---------|------|
-| GMV | +15% |
-| Seller Retention | +7% |
-| AOV | +6% |
-| Churn | -9% |
+| Conversion Rate | +12% |
+| Cart Abandonment | -7% |
+| Repeat Purchase | +8% |
+| Revenue per Active User | +6% |
+| CLV | +16% |
 
 ---
 
-# 🔍 Executive-Level Thinking Demonstrated
+# 🗂 Deliverables Included
 
-- North Star metric alignment  
-- KPI governance framework  
-- Backlog prioritization using RICE  
-- Sprint planning & release sequencing  
-- SQL-based validation  
-- Cross-functional stakeholder alignment  
+### 📊 01_Dashboard
+- Funnel stage visualization
+- Drop-off heatmap
+- Repeat purchase cohort analysis
+- Revenue per user breakdown
+
+### 📁 02_Data_CSV
+- User behavior event logs
+- Funnel tracking dataset
+- Cohort dataset
+
+### 🧮 03_SQL
+- Conversion calculation queries
+- Funnel aggregation logic
+- Cohort retention modeling
+- CLV calculation
+
+### 📄 04_Docs
+- PRD
+- KPI Definition Sheet
+- Stakeholder Matrix (RACI)
+- RAID Log
+
+### 🐍 06_Python
+- Funnel transformation script
+- Cohort retention modeling
+
+### 🗓 07_Jira
+- Sprint backlog
+- User stories
+- Prioritization model
+
+### 🏗 08_Product_Design_Architecture
+- Funnel journey map
+- Checkout wireframe concept
+- KPI hierarchy diagram
+- Experiment rollout roadmap
 
 ---
 
-# 🏆 Why This Case Study Matters
+# 🔍 Executive-Level Product Thinking Demonstrated
+
+- Funnel KPI ownership  
+- North Star alignment  
+- Experiment-driven roadmap  
+- Structured backlog prioritization  
+- SQL validation discipline  
+- Cross-functional stakeholder governance  
+
+---
+
+# 🏆 Why This Case Study Stands Out
 
 This project demonstrates:
 
-✔ Revenue-focused product ownership  
+✔ Conversion optimization thinking  
+✔ Retention-driven growth strategy  
+✔ Experimentation maturity  
 ✔ Data-backed prioritization  
-✔ Experiment-driven decision making  
-✔ Structured stakeholder governance  
-✔ End-to-end ownership from strategy to measurable impact  
+✔ End-to-end product ownership  
 
 ---
 
 # 📎 Folder Structure
-01_Marketplace_Seller_Performance_Optimization
+02_Ecommerce_Product_Funnel_Retention
 │
 ├── 01_Dashboard
 ├── 02_Data_CSV
@@ -179,8 +188,6 @@ This project demonstrates:
 └── 08_Product_Design_Architecture
 
 ---
-
-If you'd like to connect:
 
 📧 Jamiechristian331@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/jamiechristian2/
