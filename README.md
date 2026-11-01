@@ -11,6 +11,9 @@ Data-Driven Product Strategy | Agile Execution | KPI Governance
 
 ## Start here — five reviewable Product Owner case studies
 
+> **Simulation disclosure:** All five projects are simulated product-management case studies. Dashboards, user stories, stakeholder records, and reported improvements are illustrative portfolio artifacts—not measured results from a live product or actual employer/client delivery.
+
+
 | Case study | Product decision | Open the evidence |
 | --- | --- | --- |
 | [01 · Marketplace seller performance](01_Marketplace_Seller_Performance_Optimization/README.md) | Prioritize seller visibility and operating KPIs | [PRD](01_Marketplace_Seller_Performance_Optimization/04_Docs/PRD.pdf) · [Backlog](01_Marketplace_Seller_Performance_Optimization/04_Docs/Backlog.md) · [Dashboard](01_Marketplace_Seller_Performance_Optimization/01_Dashboard/Amazon_Marketplace_Analytics_Dashboard.pdf) |
