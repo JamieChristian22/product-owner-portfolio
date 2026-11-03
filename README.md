@@ -128,3 +128,7 @@ Structured hypothesis validation and feature rollout decisions.
 Jamie Christian  
 📧 Jamiechristian331@gmail.com  
 🔗 https://www.linkedin.com/in/jamiechristian2/
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
